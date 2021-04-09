@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ejemplofirebase-7c83f": {
+      "hosting": {
+        "Ejemplo": [
+          "ejemplofirebase-7c83f"
+        ]
+      }
+    }
+  }
+}
